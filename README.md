@@ -104,9 +104,18 @@ echo "- privacy-first architecture: offline-first, minimal data"
 
 ## 📈 Stats corner
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yeppAniket&show_icons=true&hide_title=true&theme=tokyonight" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeppAniket&layout=compact&theme=tokyonight" alt="top langs" />
+  <a href="https://github.com/yeppAniket">
+    <img height="165"
+      src="https://github-readme-stats.vercel.app/api?username=yeppAniket&show_icons=true&hide_title=true&theme=tokyonight&hide_rank=true"
+      alt="stats" />
+  </a>
+  <a href="https://github.com/yeppAniket?tab=repositories">
+    <img height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeppAniket&layout=compact&theme=tokyonight"
+      alt="top langs" />
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://streak-stats.vercel.app/?user=yeppAniket&theme=tokyonight&hide_border=true" alt="GitHub streak" />
