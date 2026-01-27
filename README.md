@@ -45,7 +45,7 @@
 ## 🧠 About me
 - 🛠️ Backend / Platform engineer who likes **predictable systems** more than flashy demos  
 - 🤖 I ship **LLM/RAG features** with eval loops, guardrails, and cost control  
-- 🔒 Big on **privacy-first** products + calm UX  
+- 🔒 Big on **privacy-first** products + minimal UX  
 - 📍 Bengaluru, India
 
 <p align="center">
