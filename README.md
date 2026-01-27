@@ -59,11 +59,7 @@
 - 🧩 Open to collabs where **automation meets content** (pipelines, scheduling, quality checks)
 - 🛠️ Exploring an **AI note / meeting capture** idea — would love sharp feedback on scope + UX
 - 👨‍💻 Most builds live here on GitHub (I try to ship, not hoard drafts)
-- 📝 I write occasionally on my portfolio: **https://www.aniketmishra.work**
 - 💬 Ask me about: **backend scalability, architecture tradeoffs, RAG in production**
-- 📫 Reach me: **aniketmishra717@gmail.com**
-- 📄 Resume: **https://drive.google.com/file/d/1uLllpyS9K2vikJ2Wmx10V5JQrgLHmskE/view**
-- ⚡ Fun fact: I obsess over “calm software” — fast, quiet, and respectful of attention
 
 ---
 
