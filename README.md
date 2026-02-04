@@ -54,7 +54,7 @@
 
 
 ## 🛰️ What I'm up to
-- 🔭 Building around **reliable AI systems** (monitoring, evaluation, and “does this break at 2am?” tooling)
+- 🔭 Building around **reliable AI systems** (monitoring, evaluation, and "does this break at 2am?" tooling)
 - 🌱 Learning **agentic workflows** (tools, memory, orchestration, eval)
 - 🧩 Open to collabs where **automation meets content** (pipelines, scheduling, quality checks)
 - 🛠️ Exploring an **AI note / meeting capture** idea — would love sharp feedback on scope + UX
@@ -106,25 +106,21 @@ echo "- privacy-first architecture: offline-first, minimal data"
 <p align="center">
   <a href="https://github.com/yeppAniket">
     <img height="165"
-      src="https://github-readme-stats.vercel.app/api?username=yeppAniket&show_icons=true&hide_title=true&theme=tokyonight&hide_rank=true"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=yeppAniket&show_icons=true&hide_title=true&theme=tokyonight&hide_rank=true&cache_seconds=86400"
       alt="stats" />
   </a>
   <a href="https://github.com/yeppAniket?tab=repositories">
     <img height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeppAniket&layout=compact&theme=tokyonight"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yeppAniket&layout=compact&theme=tokyonight&cache_seconds=86400"
       alt="top langs" />
   </a>
 </p>
 
-
 <p align="center">
-  <img src="https://streak-stats.vercel.app/?user=yeppAniket&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeppAniket&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
-
-
 
 ---
 
 ## 🤝 Say hi
 📫 [aniketmishra717@gmail.com](mailto:aniketmishra717@gmail.com) · 🌐 [aniketmishra.work](https://www.aniketmishra.work) · 📄 [Resume](https://drive.google.com/file/d/1uLllpyS9K2vikJ2Wmx10V5JQrgLHmskE/view)
-
