@@ -125,5 +125,5 @@ echo "- privacy-first architecture: offline-first, minimal data"
 
 ---
 
-## 🤝 Say hi!!
+## 🤝 Say hi!
 📫 [aniketmishra717@gmail.com](mailto:aniketmishra717@gmail.com) · 🌐 [aniketmishra.work](https://www.aniketmishra.work) · 📄 [Resume](https://drive.google.com/file/d/1uLllpyS9K2vikJ2Wmx10V5JQrgLHmskE/view)
